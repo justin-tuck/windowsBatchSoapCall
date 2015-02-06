@@ -1,0 +1,2 @@
+services=Service_1 Service_2
+operations=operation_1 operation_2 operation_3

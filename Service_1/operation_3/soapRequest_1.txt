@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://predic8.com/wsdl/crm/CRMService/1/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ns:get>
+         <id>1003</id>
+      </ns:get>
+   </soapenv:Body>
+</soapenv:Envelope>
